@@ -68,9 +68,9 @@ Participação em atividades práticas e resolução de problemas computacionais
 
 ## 📈 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hydra-on&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hydra-0n&layout=compact&theme=tokyonight)
 
 ---
 
