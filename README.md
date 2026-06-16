@@ -86,8 +86,8 @@ Participação em atividades práticas e resolução de problemas computacionais
 
 📧 equipehydradev@gmail.com
 
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5567981537135)
-
 💼 LinkedIn: www.linkedin.com/in/lucas-matheus-de-queiroz-483919416
 
 🐙 GitHub: https://github.com/Hydra-0n
+
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5567981537135)
