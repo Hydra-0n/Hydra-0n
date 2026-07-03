@@ -54,7 +54,7 @@ Previsão de Conclusão: 2028
 
 -Suporte Técnico
 
--segurança da informação (basico)
+-Segurança da Informação (basico)
 
 ---
 
