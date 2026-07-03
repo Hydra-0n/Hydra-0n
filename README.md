@@ -71,16 +71,6 @@ Participação em atividades práticas e resolução de problemas computacionais
 
 ---
 
-## 📈 Estatísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hydra-0n&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hydra-0n&layout=compact&theme=tokyonight"/>
-</p>
-
-
----
-
 ## 🌎 Idiomas
 
 🇧🇷 Português — Nativo
