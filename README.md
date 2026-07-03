@@ -12,7 +12,7 @@
 
 Sou estudante de Ciência da Computação e busco minha primeira oportunidade profissional na área de Tecnologia da Informação.
 
-Tenho interesse em desenvolvimento de software, suporte técnico, infraestrutura e segurança da informação. Atualmente estou aprimorando minhas habilidades em programação, sistemas operacionais, Git/GitHub e tecnologias utilizadas no mercado de TI.
+Atualmente estou desenvolvendo projetos para consolidar meus conhecimentos em programação e construir um portfólio sólido, aplicando na prática os conceitos aprendidos durante a graduação.
 
 ---
 
@@ -42,14 +42,13 @@ Previsão de Conclusão: 2028
 
 ## 📚 Conhecimentos
 
-- Lógica de Programação
-- Programação em C
-- Git e GitHub
-- Hardware e Manutenção de Computadores
-- Instalação e Configuração de Sistemas Operacionais
-- Linux
-- Suporte Técnico
-- Segurança da Informação (Fundamentos)
+-Lógica de Programação
+-Programação em C
+-Banco de Dados
+-Sistemas Operacionais
+-Hardware
+-Suporte Técnico
+-segurança da informação (basico)
 
 ---
 
