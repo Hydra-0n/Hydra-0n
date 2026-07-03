@@ -43,11 +43,17 @@ Previsão de Conclusão: 2028
 ## 📚 Conhecimentos
 
 -Lógica de Programação
+
 -Programação em C
+
 -Banco de Dados
+
 -Sistemas Operacionais
+
 -Hardware
+
 -Suporte Técnico
+
 -segurança da informação (basico)
 
 ---
