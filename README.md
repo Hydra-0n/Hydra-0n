@@ -75,14 +75,6 @@ Metodologia pessoal de aprendizado voltada para documentação da minha evoluç�
 
 ---
 
-## 📊 GitHub
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hydra-0n&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hydra-0n&layout=compact)
-
----
-
 ## 🎯 Objetivos
 
 - Conquistar minha primeira oportunidade na área de TI.
