@@ -102,7 +102,7 @@ Metodologia pessoal de aprendizado voltada para documentação da minha evoluç�
 
 ## 📫 Contato
 
-- 📧 equipehydradev@gmail.com
+- 📧 Email: equipehydradev@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/lucas-matheus-de-queiroz-483919416
 - 🐙 GitHub: https://github.com/Hydra-0n
 - 📱 WhatsApp: https://wa.me/5567981537135
